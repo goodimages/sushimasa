@@ -18,13 +18,13 @@ Open for Dinner: Tuesday - Saturday 6:00 pm to 11:00 pm (last order 10:00)
 
 pages
 
-index.html
+Restaurant.htm (index.htm)
 
-contact-us.html
+Restaurant - Menu.htm (menu.htm)
 
-chef.html
+Restaurant - Contact us.htm (contact-us.htm)
 
-menu.html
+Restaurant - Chef.htm (chef.htm)
 
 
 Pix
